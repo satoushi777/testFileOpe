@@ -2,3 +2,4 @@ okamoto taro
 test taro
 
 ブランチで変更１
+ブランチで変更２
